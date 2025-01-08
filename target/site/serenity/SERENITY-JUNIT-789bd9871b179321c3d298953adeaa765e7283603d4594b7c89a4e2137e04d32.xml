@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Manage Pets in Petstore API" skipped="0" tests="1" time="4.69" timestamp="2025-01-08 02:50:05"><testcase name="Add, retrieve, update, and delete a pet"/></testsuite>
